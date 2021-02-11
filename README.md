@@ -1,7 +1,7 @@
-### DS1302 second lag fix
+### Arduino DS1302 second lag fix
 
-I found the solution to rewind time by 20 seconds every day.
-The timer has been running successfully for several months.
+I found the solution to rewind time by 20 seconds every day on my personel project.
+<br>The timer has been running successfully for several months..
 
 Codes :
 
